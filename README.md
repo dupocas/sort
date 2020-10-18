@@ -31,7 +31,7 @@ useEffect(() => {
 }, [reset])
 ```
 
->Note that the `timeout` here is not being used to yield the execution nor acting as blocking, it is merely here to change among algorithms after the execution of the current >one. The system is still timeless
+>Note that the `timeout` here is not being used to yield the execution nor acting as blocking, it is merely here to change among algorithms after the execution of the current one. The system is still timeless
 
 ---
 
