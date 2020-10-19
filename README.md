@@ -5,7 +5,7 @@ This is a conceptual example of how to integrate [generators](https://developer.
 
 ## Basics
 Generators go really well with React's runtime! Combined with hooks flexibility we can create complex animations and interpolations without worrying about time.
-The basic gist is to await for the entropy evaluate to `0` which mean that the `spring` is now at rest. After spring's reaches equilibrium we ask for the next ordering move **yielded** until equilibrium. This iteration can be described as 
+The basic gist is to await for the entropy evaluate to `0` which means that the `spring` is now at rest. After spring's reaches equilibrium we ask for the next ordering move **yielded** until equilibrium. This iteration can be described as 
 
 ```
 useEffect(() => {
