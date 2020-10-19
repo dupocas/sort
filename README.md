@@ -1,7 +1,7 @@
 ## A concept to demonstrate the use of generators along with hooks and spring animations
 Visualization of sorting algorithms using springs and generators
 
-This is a conceptual example of how to integrate [generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator), [hooks](https://reactjs.org/docs/hooks-intro.html), [spring animations](https://developer.android.com/guide/topics/graphics/spring-animation), [dynamic styles interpolation and static styles sharing](https://dupocas/dudaui).
+This is a conceptual example of how to integrate [generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator), [hooks](https://reactjs.org/docs/hooks-intro.html), [spring animations](https://developer.android.com/guide/topics/graphics/spring-animation), [dynamic styles interpolation and static styles sharing](https://github.com/dupocas/dudaui).
 
 ## Basics
 Generators go really well with React's runtime! Combined with hooks flexibility we can create complex animations and interpolations without worrying about time.
